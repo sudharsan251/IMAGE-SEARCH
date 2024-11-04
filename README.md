@@ -1,4 +1,5 @@
 Image Search Engine
+
 A simple web application that allows users to search for images using the Unsplash API. Users can enter a keyword to retrieve related images, and the app displays results in a responsive grid layout with a "Show more" option to load additional images.
 
 Features
